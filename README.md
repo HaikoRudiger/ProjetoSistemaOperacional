@@ -105,5 +105,5 @@ Se tudo estiver correto, a janela principal do **Monitor de Memória** será abe
 ---
 
 ## 👥 Autores
-
+Beatriz Moresco Joaquim e Haiko Rüdiger.
 Projeto desenvolvido para a disciplina de **Sistemas Operacionais**, com foco em memória virtual, paginação e gestão de processos.
